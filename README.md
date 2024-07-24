@@ -9,6 +9,7 @@ Opinionated Fullstack Expo Authentication
 - OAuth
 - OTP
 
+<img src="https://i.imgur.com/NoCRvOA.jpeg" height="200px" />
 
 ## Login Example
 
