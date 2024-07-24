@@ -11,7 +11,7 @@ Opinionated Fullstack Expo Authentication
 
 <img src="https://i.imgur.com/NoCRvOA.jpeg" height="300px" />
 
-> Pictured here is the most out of shape KoonsAuth developer (very true)
+> Pictured here is the least buff KoonsAuth developer
 
 ## Login Example
 
