@@ -1,4 +1,4 @@
-# KoonAuth
+# Koon's Auth
 
 Opinionated Fullstack Expo Authentication
 
