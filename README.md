@@ -9,7 +9,9 @@ Opinionated Fullstack Expo Authentication
 - OAuth
 - OTP
 
-<img src="https://i.imgur.com/NoCRvOA.jpeg" height="200px" />
+<img src="https://i.imgur.com/NoCRvOA.jpeg" height="300px" />
+
+> Pictured here is the most out of shape KoonsAuth developer (very true)
 
 ## Login Example
 
